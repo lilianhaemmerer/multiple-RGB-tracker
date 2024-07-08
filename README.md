@@ -1,5 +1,5 @@
 # multiple-RGB-tracker
-
+> python  libraries
 **first**
 
 - Choose colors which are not in the background like red, fluorescent yellow... you can try it with the RGB plotter. one color for 
@@ -7,7 +7,7 @@
 - names of images : "name + number". same number of digits from 1 to n (good : 001,002, ...100)( bad: 1,2,...100)  
 **second**
 
-> python  libraries
+
 PIL.Images
 math.sqrt
 matplotlib
